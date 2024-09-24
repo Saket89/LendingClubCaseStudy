@@ -11,19 +11,21 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+### Background
+- You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+### Business Objective
 - This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 - Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+### Dataset
+- The dataset used is a complete loan data for all loans issued through the time period 2007 t0 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Using bivariate analysis on grade and average default rate we found that consumer with grade A and B are the lowest risk borrowers and as the grade goes from C to G the riks goes on increasing.
+- Consumers with the puropose of small_business are the high risk borrowers.
+- Consumers with high rate of interest are likely to default.
+- 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
