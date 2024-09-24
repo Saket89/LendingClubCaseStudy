@@ -17,7 +17,7 @@
 - This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 - Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 ### Dataset
-- The dataset used is a complete loan data for all loans issued through the time period 2007 t0 2011.
+- The dataset used is a complete loan data for all loans issued through the time period 2007 to 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -25,7 +25,8 @@
 - Using bivariate analysis on grade and average default rate we found that consumer with grade A and B are the lowest risk borrowers and as the grade goes from C to G the riks goes on increasing.
 - Consumers with the puropose of small_business are the high risk borrowers.
 - Consumers with high rate of interest are likely to default.
-- 
+- Surprisingly consumers with verification_status as Verified are defaulting the most.
+- Consumers with home_ownership as OTHER are the high risk borrowers.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -41,9 +42,8 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was done in collabration with Sandip Joshi.
+- This project was based on learnings from updGrad course on EDA.
 
 
 ## Contact
